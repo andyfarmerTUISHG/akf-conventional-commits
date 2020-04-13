@@ -1,6 +1,6 @@
 {
   "name": "akf-conventional-commits",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Skeleton of Conventional Commits",
   "main": "index.js",
   "scripts": {
