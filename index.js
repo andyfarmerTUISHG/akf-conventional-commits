@@ -1,3 +1,3 @@
 const version = require("./package.json").version;
 
-console.log(`Hello Initial version ${version}`);
+console.log(`Output Pacakage.json version ${version}`);
